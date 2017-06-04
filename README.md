@@ -1,5 +1,5 @@
 # slackplan
-Open-source software for calculating optimal route and slack of submarine cables
 
-By the latest statistics, up to 95% of world's internet traffic is carried by fiber-optic submarine cables. They fuel the global internet backbone, surpassing by far all alternative transmission techniques.
-However, deploying such a cable is not trivial. 
+SlackPlan is an open source system for calculating the optimal slack of submarine fiber-optic cables, as well as the route to follow on surface for a correct positioning on seabed. It uses the latest theoretical advancements on the subject. 
+
+SlackPlan is entirely hosted on GitHub. If you are a company that wants to help shape the evolution of technologies for the lay of submarine cables, consider joining the project and contributing.
